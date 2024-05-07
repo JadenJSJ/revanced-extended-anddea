@@ -1,6 +1,6 @@
-Music (arm-v7a): 6.51.52  
 Music (arm64-v8a): 6.51.52  
-YouTube: 19.16.38  
+Music (arm-v7a): 6.51.52  
+YouTube: 19.18.34  
 
 Install [MicroG (GmsCore)](https://github.com/Revanced/GmsCore/releases/) to be able to use non-root YouTube or YouTube-Music.  
 If Revanced does not launch and is stuck on the splash screen, try installing the MicroG above.  
