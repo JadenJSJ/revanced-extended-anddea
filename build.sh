@@ -168,7 +168,8 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\nInstall [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music."
+log "\nInstall [MicroG (GmsCore)](https://github.com/Revanced/GmsCore/releases/) to be able to use non-root YouTube or YouTube-Music."
+log "If Revanced does not launch and is stuck on the splash screen, try installing the MicroG above."
 log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music."
 log "\n[Main Repo](https://github.com/NoName-exe/revanced-extended)"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
