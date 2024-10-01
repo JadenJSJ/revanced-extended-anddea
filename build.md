@@ -1,14 +1,13 @@
-Music (arm64-v8a): 7.17.51  
-Music (arm-v7a): 7.17.51  
-YouTube: 19.36.32  
+Music (arm-v7a): 7.20.51  
+Music (arm64-v8a): 7.20.51  
+YouTube: 19.39.35  
 
 Install [MicroG (GmsCore)](https://github.com/Revanced/GmsCore/releases/) to be able to use non-root YouTube or YouTube-Music.  
 If Revanced does not launch and is stuck on the splash screen, try installing the MicroG above.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
 
 [Main Repo](https://github.com/NoName-exe/revanced-extended)  
-Integrations: anddea/revanced-integrations-0.155.0.apk  
-Patches: anddea/revanced-patches-2.228.0.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.228.0)
-
-CLI: inotia00/revanced-cli-4.6.1-all.jar    
+CLI: inotia00/revanced-cli-4.6.1-all.jar  
+Integrations: anddea/revanced-integrations-0.156.0.apk  
+Patches: anddea/revanced-patches-2.229.0.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.229.0)  
